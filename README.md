@@ -19,16 +19,44 @@ Each project will contain:
 
 ### 1. Book Review
 
-- [Prompt](assignments/Book_Review_Video_Trailer/prompt.md)
-- [Resources](assignments/Book_Review_Video_Trailer/resources.md)
-- [Student Example](assignments/Book_Review_Video_Trailer/example.md)
-- [Video Tutioral](assignments/Book_Review_Video_Trailer/video.md)
+- [Prompt](assignments/BR/prompt.md)
+- [Resources](assignments/BR/resources.md)
+- [Student Example](assignments/BR/example.md)
+- [Video Tutioral](assignments/BR/video.md)
 
 
-### 1. Poetry Analysis
+### 2. Poetry Analysis
 
-- [Prompt](assignments/PoetryAnalysis/prompt.md)
-- [Resources](assignments/PoetryAnalysis/resources.md)
-- [Student Example](assignments/PoetryAnalysis/example.md)
-- [Video Tutioral](assignments/PoetryAnalysis/video.md)
+- [Prompt](assignments/PA/prompt.md)
+- [Resources](assignments/PA/resources.md)
+- [Student Example](assignments/PA/example.md)
+- [Video Tutioral](assignments/PA/video.md)
+
+
+
+
+### 3. Cover Letter/Resume
+
+- [Prompt](assignments/CVR/prompt.md)
+- [Resources](assignments/CVR/resources.md)
+- [Student Example](assignments/CVR/example.md)
+- [Video Tutioral](assignments/CVR/video.md)
+
+
+### 4. Annotated Bibliography
+
+- [Prompt](assignments/AB/prompt.md)
+- [Resources](assignments/AB/resources.md)
+- [Student Example](assignments/AB/example.md)
+- [Video Tutioral](assignments/AB/video.md)
+
+
+### 5. Literature Review
+
+- [Prompt](assignments/LR/prompt.md)
+- [Resources](assignments/LR/resources.md)
+- [Student Example](assignments/LR/example.md)
+- [Video Tutioral](assignments/LR/video.md)
+
+
 

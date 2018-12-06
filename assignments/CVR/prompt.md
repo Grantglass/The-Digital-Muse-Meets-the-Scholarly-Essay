@@ -22,6 +22,10 @@ Narration segments should provide a transcript of what you will say into the mic
 
 To get a sense of the ways your script can benefit from concise language, consider the edits represented in this image:
 
+<img src="https://github.com/Grantglass/digitalmuse/blob/master/audioessayscriptedits.png"
+     alt="Edits in an audio essay script"
+     style="float: left; width: 800px;" />
+     
 (https://github.com/Grantglass/digitalmuse/blob/master/audioessayscriptedits.png)
 
 

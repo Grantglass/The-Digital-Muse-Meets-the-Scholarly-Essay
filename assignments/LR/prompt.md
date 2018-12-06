@@ -24,6 +24,7 @@ Unit Project: Book Cover Pitch
 Rhetorical Chart
 
 ---
+
 Genre: Book Dust Jacket
 Purpose: Convince a publishing company to adopt your design in order to sell more books.
 Audience: Publishing House

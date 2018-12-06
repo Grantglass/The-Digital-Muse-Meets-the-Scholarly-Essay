@@ -26,33 +26,19 @@ To get a sense of the ways your script can benefit from concise language, consid
      alt="Edits in an audio essay script"
      style="float: left; width: 800px;" />
      
-(https://github.com/Grantglass/digitalmuse/blob/master/audioessayscriptedits.png)
+The edits in the passage above cut phrases and revise statements to create a script that will be easier to read into a microphone and focus the narration on crucial points. You will need to find a balance that respects the information to be delivered while also keeping things moving with a comfortable tone.
 
+You will need to have already done preliminary work thinking about the topic, the structure, the kinds of materials you can include, etc. The script, then, can be a map of how these pieces will be laid out in the essay, as well as a text that will guide your narration. As you draft the script, be sure to come up with ways of weaving additional audio materials into the piece beyond your own voice. You will guide people through the materials as the "narrator" of the essay, but a piece that consists of a single voice talking will lack variety and not deliver the movement between materials that adds interest and texture to the essay.
 
+When it comes to adding interviews or other informational segments into the script, pay close attention to the way the narration creates transitions into and out of the material. You want to phrase the script so that the narration sets up and transitions out of any excerpts without simply repeating key points.
 
-You will need to have already done preliminary work thinking about the topic, the structure, the kinds of materials you can include, etc. The script, then, can be a map of how these pieces will be laid out in the essay, as well as a text that will guide your narration.
+Also make decisions about the ambient or background noises that you weave into the essay. You can use audio to create a mood, to deliver a message, to punctuate a statement, etc. Recall your listening to Ceraso's piece in feeder one and the way she used a range of sounds to compose the essay.
 
+After thinking through the ways that the audio medium can influence your narration and possible materials to include, compose your script using a word processor and submit it for review.
 
+Unit Project: Compose Your Audio Essay
 
-
-
-
-
-​If you choose to relate the item to an aspect of culture, you will want to find an angle to hone in on points to be made about culture--e.g., instead of linking an object like a doll to "gender" you might connect it with "notions of play for young girls" or some other concrete area of focus. You may want to conduct some research into this aspect of culture, and then try to find ways take the cultural topic and create a "story" that gives the audio essay focus and pulls the listener in.
-
-As you begin planning, you should also think about how you will make use of sound.
-
-You will need to spend some time getting to know the Audacity audio editor. (You can use an altenate audio editor if you prefer.) Take time to read any overviews, help pages, or tutorials that can get you started with the program.
-
-You will also need to spend some time working on your audio composing skills. As you discuss an audio sample, you will need to compose narration that situates, extends, or clarifies rather than repeats what has been said. Be flexible and deliberate as you compose your narration, using your words to help listeners zoom in on specifics in your materials and zoom out to connect with your topic as a whole.
-
-Also, be sure to come up with ways of weaving additional audio materials into the piece beyond your own voice. You will guide people through the materials as the "narrator" of the essay, but an piece that consists of a single voice talking will lack variety and not deliver the movement between materials that adds interests and texture to the essay.
-
-Make similar decisions about the ambient or background noises that you weave into the essay. You can use audio to create a mood, to deliver a message, to punctuate a statement, etc. Recall our listening to Ceraso's piece and the way she used a range of sounds to compose the essay.
-
-As a preliminary step in this project, you will compose and post a script before class on October 23rd.
-
-Although your project and your audio editor will influence your composing process, you can follow some general steps.
+You will need to spend some time getting to know the Audition audio editor. (You can use an altenate audio editor if you prefer.) Take time to read the overviews, help pages, and tutorials that can get you started with the program. Although your project and your audio editor will influence your composing process, you can follow some general steps.
 
 Become adept at recording your own voice to narrate the audio essay. Find a quiet environment where you can work. Experiment with your available microphones. (Built in laptop microphones often work fine; affordable USB microphones work well; more advanced microphones might be worth a look.) Try some practice recordings, working with your equipment and software until you get audio that is loud enough to be easily heard and that does not contain undue levels of background sound. The MRC has podcasting recording equipment you can use.
 
@@ -62,17 +48,10 @@ Learn the moves needed to import audio files into your editor. You may also need
 
 Ensure that you have an outline or plan for developing the essay. Import a clip and begin editing it and adding your narration. Check that you are writing into and out of the clips in ways that clarify and extend your topic.
 
-Develop a script ahead of time, and then revise it. Or you can do some free-form recordings, transcribe them, and then edit the transcript into a script for the production recordings.
+Allow yourself room to revise aspects of your script as the evolving project dictate. For instance, you may have planned to include a lengthy excerpt from an interview only to discover that a kernal of audio in the middle of the clip is all you need. Or you may find that a phrase that looked good "on paper" in your script trips you up when spoken into the microphone. Your script will guide you, but the project can also emerge through the composing process.
 
 Continue importing materials and adding narration. Add background sounds for ambiance as needed. Adjust and polish the composition.
 
-Export a draft of the file. Explore your audio editor to learn about file formats for exporting—most likely mp3 format. Post the file to the class Web site or online.
-Below find resources to refer to as you work:
-
-You will need to download and install the Audacity audio editor to work with the sounds. (You will also need to download the lame encoder.) I will give you instructions about how to use the program. 
-
-You may also want to collect interview clips. You can probably use the built in microphone on your laptop, or I have some microphones that you can use with your laptop to record people. 
-
-You will also need to gather resources from the net. As you do so, you may need to capture audio from YouTube or otherwise find ways of collecting the sounds you need. We will work in class on any of these tasks that you need help with.
+When finished, export a draft of your file and submit it in mp3 format
 
 This should be a project that raises some new challenges for you. Some will be technical; be sure to save your files often and give yourself time to learn how to compose with audio. Most of the challenges should be conceptual; you'll need to learn to imagine how you can organize a project based in sound, create transitions, convey information succinctly, create a mood through audio, etc. There will also be content challenges. You will be working to deliver an essay, so research, concise writing, editing, and all the typical communication moves will be needed. Hopefuly the level of challenges will still allow the project to be creative and fun.

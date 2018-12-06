@@ -35,7 +35,7 @@ Each project will contain:
 
 
 
-### 3. Research Storytelling (Podcast in Audition)
+### 3. Audio Storytelling (Podcast in Audition)
 
 - [Prompt](assignments/CVR/prompt.md)
 - [Resources](assignments/CVR/resources.md)

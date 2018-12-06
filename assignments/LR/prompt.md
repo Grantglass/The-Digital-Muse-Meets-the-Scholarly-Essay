@@ -1,6 +1,12 @@
-![Book Review, December 2018](assets/br.jpg?raw=true "Book Review")
 
+---
+Genre: Book Dust Jacket
+Purpose: Convince a publishing company to adopt your design in order to sell more books.
+Audience: Publishing House
+Role: Editorial Intern
+Rhetorical Situation: You have approached a publishing house about redesigning a dust jacket for one of its books. While this particular book is interesting, it is not selling well. Your assignment is to come up with a new dust cover design and create a pitch to the publisher in 60 seconds on how this cover will sell more books.
 
+---
 
 Unit 3- Book Review
 
@@ -23,15 +29,7 @@ Unit Project: Book Cover Pitch
 
 Rhetorical Chart
 
----
 
-Genre: Book Dust Jacket
-Purpose: Convince a publishing company to adopt your design in order to sell more books.
-Audience: Publishing House
-Role: Editorial Intern
-Rhetorical Situation: You have approached a publishing house about redesigning a dust jacket for one of its books. While this particular book is interesting, it is not selling well. Your assignment is to come up with a new dust cover design and create a pitch to the publisher in 60 seconds on how this cover will sell more books.
-
----
 
 Details:
 

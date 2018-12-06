@@ -14,6 +14,23 @@ When finished, submit a two paragraph reflection. In your reflection identify th
 
 Feeder 2: Composing a script:
 
+Use a word processor or text editor to compose a script for your audio essay. The script should be a mix of storyboard-like instructions and the actual text of the narration you want to include in the essay. If you plan to use audio excerpts from others--i.e., interviews or broadcast segments with information--transcribe any spoken words that are included in those excerpts and include them in the script.
+
+Direction segments might be something like: [Insert interview clip with Aunt discussing writing in the 1970s] or [play typewriter sound effect].
+
+Narration segments should provide a transcript of what you will say into the microphone. For these sections, aim for a good balance of tone that is not overly formal. Also, tighten the language as much as possible. Shorter is almost always better when trying to articulate a phrase in an audio essay, so edit for concision.
+
+To get a sense of the ways your script can benefit from concise language, consider the edits represented in this image:
+
+
+
+
+
+You will need to have already done preliminary work thinking about the topic, the structure, the kinds of materials you can include, etc. The script, then, can be a map of how these pieces will be laid out in the essay, as well as a text that will guide your narration.
+
+
+
+
 
 
 

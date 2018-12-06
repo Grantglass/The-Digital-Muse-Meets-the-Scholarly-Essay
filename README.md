@@ -17,7 +17,7 @@ Each project will contain:
 
 ## Projects
 
-### 1. Book Review
+### 1. Book Review (Trailer in Rush)
 
 - [Prompt](assignments/BR/prompt.md)
 - [Resources](assignments/BR/resources.md)
@@ -25,7 +25,7 @@ Each project will contain:
 - [Video Tutioral](assignments/BR/video.md)
 
 
-### 2. Poetry Analysis
+### 2. Poetry Analysis (Remix in Rush)
 
 - [Prompt](assignments/PA/prompt.md)
 - [Resources](assignments/PA/resources.md)
@@ -35,7 +35,7 @@ Each project will contain:
 
 
 
-### 3. Cover Letter/Resume
+### 3. Research Storytelling (Podcast in Audition)
 
 - [Prompt](assignments/CVR/prompt.md)
 - [Resources](assignments/CVR/resources.md)
@@ -43,7 +43,7 @@ Each project will contain:
 - [Video Tutioral](assignments/CVR/video.md)
 
 
-### 4. Annotated Bibliography
+### 4. Annotated Bibliography (Planning document in XD)
 
 - [Prompt](assignments/AB/prompt.md)
 - [Resources](assignments/AB/resources.md)
@@ -51,7 +51,7 @@ Each project will contain:
 - [Video Tutioral](assignments/AB/video.md)
 
 
-### 5. Literature Review
+### 5. Literature Review (Book cover in InDesign)
 
 - [Prompt](assignments/LR/prompt.md)
 - [Resources](assignments/LR/resources.md)

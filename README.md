@@ -35,7 +35,7 @@ Each project will contain:
 
 
 
-### 3. Audio Storytelling (Podcast in Audition)
+### 3. Sonic Storytelling (Audio Essay in Audition)
 
 - [Prompt](assignments/CVR/prompt.md)
 - [Resources](assignments/CVR/resources.md)
@@ -43,7 +43,7 @@ Each project will contain:
 - [Video Tutioral](assignments/CVR/video.md)
 
 
-### 4. Annotated Bibliography (Planning document in XD)
+### 4. Moving Visuals (Animated GIF in Photoshop)
 
 - [Prompt](assignments/AB/prompt.md)
 - [Resources](assignments/AB/resources.md)

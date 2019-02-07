@@ -1,24 +1,27 @@
-Video Essay
+# **Video Essay**
  
 
-“You can’t possibly know where you are or where you’re going if you don’t know where you’ve been.”
+>“You can’t possibly know where you are or where you’re going if you don’t know where you’ve been.”
 
 -Ken Burns
 
-For our second unit, you will take on the role of a Public History student who has been tasked with surveying, researching, and analyzing one specific building at UNC Chapel Hill. The end product is a compelling video essay that will inform and enlighten the greater university community about the buildings they spend so much time in. Much like the outstanding films of Ken Burns, your 3-5-minute video will incorporate images (photographs, maps) and narration (words), but will not need to include shot video (unless you would like to).
+For this unit, you will take on the role of a Public History student who has been tasked with surveying, researching, and analyzing one specific building at UNC Chapel Hill. The end product is a compelling video essay that will inform and enlighten the greater university community about the buildings they spend so much time in. Much like the outstanding films of Ken Burns, your 3-5-minute video will incorporate images (photographs, maps) and narration (words), but will not need to include shot video (unless you would like to).
 
-Genre	Purpose	Audience	Writer’s Role	Rhetorical Situation
-Historical Video Essay	Inform audience about the buildings on campus.
- 
-University Community	Public History Student	You are a Public History student who has been tasked with creating a short film about a particular building on campus.
- 
+| Genre | Purpose | Audience | Role | Rhetorical Situation |
+
+| ---------------- | | ---------------- | | ---------------- | | ---------------- | | ---------------- |
+
+| Book Review Video | Summarize and publicize a text of provided by your publishing house. |Publishing House | Editorial Intern | You have approached a publishing house about assisting with a marketing campaign for one of its books. While this particular book is interesting, it is not selling well. Your assignment is to come up with a 60 second video trailer for that book to help it sell more copies. |
+
+
+
+
+
+## Feeder 1-  Video Narrative 
+
  
 
-Feeder 1-  Building Narrative 
-
- 
-
-The driving force of the video will be the narrative of the building which should be an engaging, illustrated interpretive article (about 500 words) about the history of your main building. This should open with an interesting “hook” to draw people in, have a discernable thesis statement or overarching point, and present a concise, contextualized, compelling narrative about your building.
+The driving force of the video will be the narrative of the book, which should be an engaging, illustrated interpretive story (about 200 words) about the plot of your book. This should open with an interesting “hook” to draw people in, have a discernable thesis statement or overarching point, and present a concise, contextualized, compelling narrative about your book.
 
 Major points you should touch on:
 

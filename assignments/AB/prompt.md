@@ -6,7 +6,11 @@ You will start by becoming familiar with two intellectual concerns: viral images
 
 Feeder 1: Understanding viral images and visual rhetoric
 
-To get started, explore 
+To get started, explore this [study on predicting the success of memes](https://mindmodeling.org/cogsci2015/papers/0376/paper0376.pdf). As you read, think about critiques that associate the internet with soundbite culture and the decline of literacy. How might the conclusions of the article inform these debates?
 
+Next, look over [this blog posting](https://blog.adobespark.com/2016/07/27/8-basic-design-principles-to-help-you-create-better-graphics/) to become familiar with some basic components of graphic design. Also, look over [this article focusing on emphasis](https://www.sophia.org/tutorials/design-in-art-emphasis-variety-and-unity). 
 
-this reading on viral images. 
+You can conduct additional research online into viral images and graphic design. Once you have a good sense of some of the characteristics of viral images and of design concepts like contrast and emphasis, complete these tasks: Search online through sites containing viral images and other memes. Identify one image, and copy its web address. Submit a posting providing the address of the image and a two-paragraph analysis. In the analysis, explore aspects of the image that might contribute to its likelihood of becoming viral. Also explore strategies of graphic design that might be present in the image. Finally, offer some conclusions about what the image suggests about internet culture and composing visuals designed to create instant impact. 
+
+Feeder 2: Adding Motion to Images
+

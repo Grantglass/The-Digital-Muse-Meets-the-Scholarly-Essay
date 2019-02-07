@@ -18,5 +18,25 @@ Next, search online for viral images and identify several items: choose 1) an im
 
 Unit Project: Create a Viral Image
 
+In this assignment, you will create at least two images that use graphic design and wordplay. The aim should be to develop images with characteristics that lend themselves to going viral. The assignment, however, does have an additional requirements that will help you develop your facility with using layers and working with visuals. Specifically, you will need to create an composite image that includes two or more visual elements in addition to words. For instance, you might layer an image of a cat over a cityscape, and then add a clever caption.
+
+First, you need to develop ideas for the images you want to create. Start by working up some possibilities on your own based on your research into graphic design and viral images and your interests and experiences. You can also consider whether modifying some existing memes can create some possibilities. You can always adjust and pick new images to create as you work, but start by brainstorming some lists of possibilites. You may also want to use some paper and pen or pencil to sketch out some lo-fi designs for potential images.
+
+Next, compose your viral images. Follow these steps:
+
+Begin by downloading images that you want to mix together. As you work, pay attention to these guidelines for using materials online.
+
+Next, open Photoshop. You can use an alternative image editor but make sure that it supports layers and masking. 
+
+Create a new image that is 1080 pixels wide and high. Save the image.
+Next, open an animal or person image in Photoshop. Use the Image menu to resize the image to be 1200 pixels wide.
+Next, select all of the image using the Select Menu, and then choose Copy.
+Next navigate to your meme1 blank image. From the Layers menu, select New > Layer. From the Edit menu, select Paste.
+Next, choose the Quick Selection tool, and select relevant parts of the image to create trace lines around the animal or person.
+Next, from the Layer menu, select Layer Mask > Reveal Selection. See what happens.
+Next, open the image with the background scene, and resize it to 1200 pixels wide. Select all of the image, and copy it.
+Next return to the meme1 image, and create a new layer, and then paste the background image into the new layer. 
+Next, rearrange the layers if needed to the proper order by dragging them in the Layers pallete.
+Next, choose the text tool from the toolbar, and add some text. Experiment with the fonts, sizes, color etc. Once you have a text layer in your composition, experiment with some of the effects available at the bottom of the Layers pallets 
 
 

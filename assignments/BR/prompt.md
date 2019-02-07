@@ -9,9 +9,9 @@ For this unit, you will take on the role of a Public History student who has bee
 
 | Genre | Purpose | Audience | Role | Rhetorical Situation |
 
-| ---------------- | | ---------------- | | ---------------- | | ---------------- | | ---------------- |
+|---|---|---|---|---|---|---|---|
 
-| Book Review Video | Summarize and publicize a text of provided by your publishing house. |Publishing House | Editorial Intern | You have approached a publishing house about assisting with a marketing campaign for one of its books. While this particular book is interesting, it is not selling well. Your assignment is to come up with a 60 second video trailer for that book to help it sell more copies. |
+| Book Review Video | Summarize and publicize a text of provided by your publishing house. | Publishing House | Editorial Intern | You have approached a publishing house about assisting with a marketing campaign for one of its books. While this particular book is interesting, it is not selling well. Your assignment is to come up with a 60 second video trailer for that book to help it sell more copies. |
 
 
 

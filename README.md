@@ -11,7 +11,7 @@ Each project will contain:
 - Assignment Prompt.
 - List of Resources.
 - Student Example.
-- Video Tutioral.
+- Video Tutorial.
 
 
 

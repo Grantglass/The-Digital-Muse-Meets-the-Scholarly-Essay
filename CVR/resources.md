@@ -1,2 +1,0 @@
-
-Audio Essay Resources

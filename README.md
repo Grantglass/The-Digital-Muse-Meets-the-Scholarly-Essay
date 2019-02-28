@@ -10,8 +10,8 @@ Each project will contain:
 
 - Assignment Prompt.
 - List of Resources.
-- Student Example.
-- Video Tutorial.
+- Student Example and Commentary.
+
 
 
 

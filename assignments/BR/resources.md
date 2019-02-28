@@ -1,20 +1,16 @@
 Resources:
 
-http://docsouth.unc.edu/ and for those looking at the buildings built during the first century: http://docsouth.unc.edu/unc/. There are also scanned and transcribed books all throughout the site that would be useful. Specifically of Battle’sHistory of the University of North Carolina
+[Lynda.com](http://software.sites.unc.edu/lynda/) provides training on all the Adobe Creative Cloud suite. It is free to students and has over 2,000 different courses to choose from.
 
-NC Postcards http://dc.lib.unc.edu/cdm/landingpage/collection/nc_post and digitized photographs from the NCC
+[Media Resources Center](https://library.unc.edu/house/mrc/) provides instruction on how to use a host of digital media production equipment and editing software.
 
-http://dc.lib.unc.edu/cdm/archivalhome/collection/dig_nccpa
+[UNC Library's guide to images](https://guides.lib.unc.edu/ImagesReuse/images) provides you with the resouces to get usable images for your video. 
 
-Collections with photographs of UNChttp://library.unc.edu/wilson/photos/collections-with-photographs-of-the-university-of-north-carolina-at-chapel-hill/ – not only buildings, but also people! You will also find these in the gateway to digitized material linked above, but not all is digitized…if you want something that isn’t digitized, please email Sarah!
+[UNC's Scholarly Communications Office](https://library.unc.edu/scholarly-communications/) provides guidance and other assistance on issues including copyright.
 
-Digital Heritage Center http://www.digitalnc.org/ and this is where we have yearbooks digitized with links here http://www.digitalnc.org/blog/unc-chapel-hill-yearbooks-through-1966-now-available-online/
-The full text searching appears to be “off,” unfortunately, so you can also go to the Internet Archive where they are also scanned https://archive.org/
+The Center for Media & Social Impact at American University’s School of Communication published a [“Code of Best Practices in Fair Use for Media Literacy Education”](http://cmsimpact.org/code/code-best-practices-fair-use-media-literacy-education/) to help students interpret the copyright doctrine of fair use.
 
-The Black and Blue Tour makes some stops at buildings http://blackandblue.web.unc.edu/
+Stanford University has a great [page with information](https://fairuse.stanford.edu/library-resources/) on fair use & copyright guidelines and policies.
 
-Newspapers.com has the DTH digitized through about 1997 – they search for Newspapers.com through the library catalog. 2005- present is on the actual DTH website. DTH headline archive http://library.unc.edu/dth/
 
-University history – https://museum.unc.edu/ you could potentially find a number of photographs here.
 
-Alumni Review – this is a great resource! https://alumni.unc.edu/news-publications/carolina-alumni-review-back-issues/. Sarah’s “hack” is to scroll down and click on an older one to get to the search feature, because only the most recent aren’t available to download. You click the arrow next to search and use the advanced function to search all issues for phrases, keywords, etc. Sometimes it’s a little clunky – if it doesn’t work, try it again.

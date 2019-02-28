@@ -31,22 +31,29 @@ Where/When is the book set?
 
 ## Feeder 2- Storyboard
 
-![Image of Yaktocat](https://cdn-images-1.medium.com/max/800/0*TuiNR7THs7AdV3hM.jpg)
+![Image of Storyboard](https://cdn-images-1.medium.com/max/800/0*TuiNR7THs7AdV3hM.jpg)
 
 
 Next, you will create a storyboard by finding the visual components to your video by choosing specific images of your book or images relating to your book. You may also choose to place text over or between your images, please notate that on your storyboard. When choosing images, ensure you are using stock photographs,  Creative Commons licensed images, or  images that are labeled for reuse. Please consult the [library's guide to images](https://guides.lib.unc.edu/ImagesReuse/images) for more information.
 
+Once you have all your visual components that you want to include, the next step is to break up your narrative into chunks of text under each image in your storyboard, so you know what 
 
 
 
 
 
-Final Project- Video Essay 
 
-This is where all the work you have done in the feeders comes together. Now it is your turn to become the filmmaker. You will want to think about how the images will work with your narrative and if you want to include any text (words) in your movie. We will be using Adobe Premier to create our video, a quick tutorial can be found here (http://guides.lib.unc.edu/mrc/adobepremiere). We will have Greg from the Undergraduate Library to show us how to use this software.
+## Final Project- Video Trailer 
 
-First, you will record your narrative which will serve as your base of the video. Practice makes perfect, so think about how you want your voice to sound and do a few trial runs. One option to record your voice is the Media Resources Center (https://library.unc.edu/house/mrc/) , which will provide you the tools to create a professional quality recording. You can also use your own microphone or phone if you would like.
+This is where all the work you have done in the feeders comes together. Now it is your turn to become the filmmaker. You will want to think about how the images will work with your narrative and if you want to include any text (words) in your movie. We will be using [Adobe Premier Rush](https://www.adobe.com/products/premiere-rush.html) to create our video. 
 
-Second, you will create a visual component by choosing specific images of your building and forming a video from these images. You may also choose to place text over or between your images. The end result will be a 4-5 minute video that you will upload to Sakai dropbox.
+First, you will record your narrative (from Feeder1) which will serve as your base of the video. Practice makes perfect, so think about how you want your voice to sound and do a few trial runs. One option to record your voice is the [Media Resources Center](https://library.unc.edu/house/mrc/) , which will provide you the tools to create a professional quality recording. You can also use your own microphone or phone if you would like.
+
+Once you have all your visual components that you want to include from your Feeder 2, the next step is to break up your narrative into chunks of text under each image in your storyboard, so you know what portions of the narrative will align to the text being spoken.
+
+Finally, once all of your media are together and polished, you will export your video and send it off. 
+
+
+
 
 

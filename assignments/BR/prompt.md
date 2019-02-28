@@ -13,7 +13,7 @@ For this unit, you will take on the role of a Public History student who has bee
 | Book Review Video | Summarize and publicize a text of provided by your publishing house. | Publishing House | Editorial Intern | You have approached a publishing house about assisting with a marketing campaign for one of its books. While this particular book is interesting, it is not selling well. Your assignment is to come up with a 60 second video trailer for that book to help it sell more copies. |
 
 
-## Feeder 1-  Video Narrative 
+## Feeder 1- Narrative 
 
  
 
@@ -29,15 +29,12 @@ Where/When is the book set?
 
 
 
-Feeder 2- Storyboard
+## Feeder 2- Storyboard
+
+![Image of Yaktocat](https://cdn-images-1.medium.com/max/800/0*TuiNR7THs7AdV3hM.jpg)
 
 
-This is where all the work you have done in the feeders comes together. Now it is your turn to become the filmmaker. You will want to think about how the images will work with your text. 
-
- First, you will record your narrative which will serve as your base of the video. Practice makes perfect, so think about how you want your voice to sound and do a few trial runs. One option to record your voice is the [Media Resources Center](https://library.unc.edu/house/mrc/), which will provide you the tools to create a professional quality recording. You can also use your own microphone or phone if you would like, but be cognizent of the audio quality.
-
- 
-Second, you will create a visual component by choosing specific images of your book or images relating to your book and forming a video from these media. You may also choose to place text over or between your images. When choosing images, ensure you are using stock photographs,  Creative Commons licensed images, or  images that are labeled for reuse. Please consult the [library's guide to images](https://guides.lib.unc.edu/ImagesReuse/images)
+Next, you will create a storyboard by finding the visual components to your video by choosing specific images of your book or images relating to your book. You may also choose to place text over or between your images, please notate that on your storyboard. When choosing images, ensure you are using stock photographs,  Creative Commons licensed images, or  images that are labeled for reuse. Please consult the [library's guide to images](https://guides.lib.unc.edu/ImagesReuse/images) for more information.
 
 
 

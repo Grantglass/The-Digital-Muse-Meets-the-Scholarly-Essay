@@ -3,7 +3,7 @@
 
 >“A book cover design requires the creation of an appealing graphic—a mini poster—that encourage the consumer to pick up the book and look through it. The cover graphic can set a mood or hint at what the reader might experience inside its covers. After reading the book, manuscript, or summary provided by the editorial staff, the designer interprets and translates the work into visual ideas.”
 
--Chip Kidd, *[Chip Kidd Ted Talk]*(https://www.ted.com/talks/chip_kidd_designing_books_is_no_laughing_matter_ok_it_is?language=en)
+-Chip Kidd, [Chip Kidd Ted Talk](https://www.ted.com/talks/chip_kidd_designing_books_is_no_laughing_matter_ok_it_is?language=en)
 
 | Genre            | Purpose                                                                         | Audience         | Role             | Rhetorical Situation                                                                                                                                                                                                                                                                                                 |
 |------------------|---------------------------------------------------------------------------------|------------------|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

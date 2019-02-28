@@ -1,5 +1,7 @@
 Resources:
 
+[Adobe Premier Rush](https://www.adobe.com/products/premiere-rush.html)
+
 [Lynda.com](http://software.sites.unc.edu/lynda/) provides training on all the Adobe Creative Cloud suite. It is free to students and has over 2,000 different courses to choose from.
 
 [Media Resources Center](https://library.unc.edu/house/mrc/) provides instruction on how to use a host of digital media production equipment and editing software.

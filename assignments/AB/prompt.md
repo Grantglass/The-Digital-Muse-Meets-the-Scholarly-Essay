@@ -18,25 +18,26 @@ Next, search online for viral images and identify several items: choose 1) an im
 
 Unit Project: Create a Viral Image
 
-In this assignment, you will create at least two images that use graphic design and wordplay. The aim should be to develop images with characteristics that lend themselves to going viral. The assignment, however, does have an additional requirements that will help you develop your facility with using layers and working with visuals. Specifically, you will need to create an composite image that includes two or more visual elements in addition to words. For instance, you might layer an image of a cat over a cityscape, and then add a clever caption.
+In this assignment, you will create at least two images that use graphic design and wordplay. The aim should be to develop images with characteristics that lend themselves to going viral. The assignment, however, does have additional requirements that will help you develop your facility with using layers and working with visuals. Specifically, you will need to create a composite image that includes two or more visual elements in addition to words. For instance, you might layer an image of a cat over a cityscape, and then add a clever caption.
 
 First, you need to develop ideas for the images you want to create. Start by working up some possibilities on your own based on your research into graphic design and viral images and your interests and experiences. You can also consider whether modifying some existing memes can create some possibilities. You can always adjust and pick new images to create as you work, but start by brainstorming some lists of possibilites. You may also want to use some paper and pen or pencil to sketch out some lo-fi designs for potential images.
 
 Next, compose your viral images. Follow these steps:
 
-Begin by downloading images that you want to mix together. As you work, pay attention to these guidelines for using materials online.
+Begin by downloading images that you want to mix together. Select one image that will serve as a background--a street scene, a dining table, a landscape, etc. Also select an image that has a concrete element (a person, animal, artifact, etc.) that can be overlaid on top of the background scene. As you select images, seek out items that are appropriate in size--i.e., square or rectangular, at least 800 pixels wide or high, not more than 1920 pixels wide. As you work, pay attention to these guidelines for using materials online.
 
 Next, open Photoshop. You can use an alternative image editor but make sure that it supports layers and masking. 
 
-Create a new image that is 1080 pixels wide and high. Save the image.
-Next, open an animal or person image in Photoshop. Use the Image menu to resize the image to be 1200 pixels wide.
+Open the image that will serve as the background for your composite. Resize the image to be 1080 pixels wide. Save the image with a title something like meme1.
+
+Next, open the image that contains the foreground element you will use in Photoshop. Use the Image menu to resize the image to be 1080 pixels wide.
 Next, select all of the image using the Select Menu, and then choose Copy.
-Next navigate to your meme1 blank image. From the Layers menu, select New > Layer. From the Edit menu, select Paste.
-Next, choose the Quick Selection tool, and select relevant parts of the image to create trace lines around the animal or person.
+Next navigate to your meme1 background image. From the Layers menu, select New > Layer. From the Edit menu, select Paste. You should now have and image with two layers. The background image should be beneath the foreground image in the Layers palette.  (If needed, go to the Window menu and select Layers to bring forward the layers palette. 
+Next, in the Layers palette, select the layer with the foreground menu. 
+Next, choose the Quick Selection tool, and select relevant parts of the image to create trace lines around the element that you want to isolate in the forground.
 Next, from the Layer menu, select Layer Mask > Reveal Selection. See what happens.
-Next, open the image with the background scene, and resize it to 1200 pixels wide. Select all of the image, and copy it.
-Next return to the meme1 image, and create a new layer, and then paste the background image into the new layer. 
-Next, rearrange the layers if needed to the proper order by dragging them in the Layers pallete.
-Next, choose the text tool from the toolbar, and add some text. Experiment with the fonts, sizes, color etc. Once you have a text layer in your composition, experiment with some of the effects available at the bottom of the Layers pallets 
+Next, choose the text tool from the toolbar, and add the text for your meme. Draw upon your research and experience to create a phrase that uses wordplay. Experiment with the fonts, sizes, color etc. Once you have a text layer in your composition, experiment with some of the effects available at the bottom of the Layers pallete
+
+When finished, Export your image in either PNG or JPG format
 
 

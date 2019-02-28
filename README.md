@@ -21,16 +21,16 @@ Each project will contain:
 
 - [Prompt](assignments/BR/prompt.md)
 - [Resources](assignments/BR/resources.md)
-- [Student Example](assignments/BR/example.md)
-- [Video Tutioral](assignments/BR/video.md)
+- [Student Example and Commentary](assignments/BR/example.md)
+
 
 
 ### 2. Poetry Analysis (Remix in Rush)
 
 - [Prompt](assignments/PA/prompt.md)
 - [Resources](assignments/PA/resources.md)
-- [Student Example](assignments/PA/example.md)
-- [Video Tutioral](assignments/PA/video.md)
+- [Student Example and Commentary](assignments/PA/example.md)
+
 
 
 
@@ -39,24 +39,23 @@ Each project will contain:
 
 - [Prompt](assignments/CVR/prompt.md)
 - [Resources](assignments/CVR/resources.md)
-- [Student Example](assignments/CVR/example.md)
-- [Video Tutioral](assignments/CVR/video.md)
+- [Student Example and Commentary](assignments/CVR/example.md)
+
 
 
 ### 4. Moving Visuals (Animated GIF in Photoshop)
 
 - [Prompt](assignments/AB/prompt.md)
 - [Resources](assignments/AB/resources.md)
-- [Student Example](assignments/AB/example.md)
-- [Video Tutioral](assignments/AB/video.md)
+- [Student Example and Commentary](assignments/AB/example.md)
+
 
 
 ### 5. Literature Review (Book cover in InDesign)
 
 - [Prompt](assignments/LR/prompt.md)
 - [Resources](assignments/LR/resources.md)
-- [Student Example](assignments/LR/example.md)
-- [Video Tutioral](assignments/LR/video.md)
+- [Student Example and Commentary](assignments/LR/example.md)
 
 
 

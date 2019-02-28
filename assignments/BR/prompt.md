@@ -8,12 +8,14 @@
 For this unit, you will take on the role of a Public History student who has been tasked with surveying, researching, and analyzing one specific building at UNC Chapel Hill. The end product is a compelling video essay that will inform and enlighten the greater university community about the buildings they spend so much time in. Much like the outstanding films of Ken Burns, your 3-5-minute video will incorporate images (photographs, maps) and narration (words), but will not need to include shot video (unless you would like to).
 
 | Genre | Purpose | Audience | Role | Rhetorical Situation |
-
 |---|---|---|---|---|---|---|---|
-
 | Book Review Video | Summarize and publicize a text of provided by your publishing house. | Publishing House | Editorial Intern | You have approached a publishing house about assisting with a marketing campaign for one of its books. While this particular book is interesting, it is not selling well. Your assignment is to come up with a 60 second video trailer for that book to help it sell more copies. |
 
-
+| Genre       | Purpose         | Audience  | Role  | Rhetorical Situation |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 
 

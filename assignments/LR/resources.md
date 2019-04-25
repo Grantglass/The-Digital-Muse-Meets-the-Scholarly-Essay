@@ -11,11 +11,7 @@ The Design Lab focuses on teaching digital design for genres such as presentatio
 
 The Design Lab assists with incorporating and creating media assignments into new or existing courses.
 
-Contact: Jennie Goforth at jgoforth@unc.edu
 
- 
-
-[Additionally, the Purdue Online Writing Lab](https://owl.english.purdue.edu/owl/section/2/) and your textbook, The Tarheel Writing Guide, are fantastic resources for learning more about mechanics, style, grammar, and citations.
 
  
 

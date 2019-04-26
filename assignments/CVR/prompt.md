@@ -1,10 +1,15 @@
-Audio Storytelling Prompt
+# Audio Storytelling Prompt
 
 Create an audio essay that explores the significance of either 1) an object or 2) a "rich" word. Objects offer interesting ways of making inroads into concepts and concerns. For instance, a pencil, the more you study its history and think about its uses, allows us to talk about ideas of permanence, literacy, forms of art, the science of materials, etc. Words tend to vary in their richness, with a continuum that ranges from denotation (dictionary) meanings to connotation (allusions and associations). Words like motherhood, nostalgia, or angst, for instance, open up numerous pathways for talking about human concerns.
 
 Once you have arrived at the object or word that will organize your essay, you can develop your project by conducting research and connecting the item to either or both 1) personal experience or 2) cultural concerns.
 
-Feeder 1: Understanding audio storytelling
+| Genre                  | Purpose                                                                                              | Audience       | Role      | Rhetorical Situation                                                                                                                                                                                                                         |
+|------------------------|------------------------------------------------------------------------------------------------------|----------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Storytelling "Podcast" | You have been tasked with generating content for a podcast on the significance of a word or object.  | General Public | Podcaster | You work for a podcast that focuses on telling the stories of  different words and objects. The purpose of this podcast is to get the audience interested in things that might seem boring or banal and to tell the story of that item/word. |
+
+
+## Feeder 1: Understanding audio storytelling
 
 To get started, listen to Steph Ceraso's "[A Tale of Two Soundscapes](http://soundboxproject.com/project-soundscapes.html)." As you listen, pay attention to the way the piece blends personal experience with discussion of concepts. Think as well about aspects of storytelling in the piece--shared personal experiences, contrasts between country and city, changes in perspective or growth of a character, etc. Also think about the uses of sound: how does music influence the piece? What kinds of sound effects are used, and how do they affect your experience? Think as well about compositional aspects of sound--volume levels, transitions, repetitions, etc. 
 
@@ -12,7 +17,7 @@ Next, explore additional audio essays that include aspects of storytelling. List
 
 When finished, submit a two paragraph reflection. In your reflection identify the audio essay that your have selected and provide analysis of its story telling techniques. Consider as well the uses of sound in the piece. Finally, share thoughts on ideas for your own project that you have gleaned from listening to the examples of others.
 
-Feeder 2: Composing a script:
+## Feeder 2: Composing a script:
 
 Use a word processor or text editor to compose a script for your audio essay. The script should be a mix of storyboard-like instructions and the actual text of the narration you want to include in the essay. If you plan to use audio excerpts from others--i.e., interviews or broadcast segments with information--transcribe any spoken words that are included in those excerpts and include them in the script.
 
@@ -36,7 +41,7 @@ Also make decisions about the ambient or background noises that you weave into t
 
 After thinking through the ways that the audio medium can influence your narration and possible materials to include, compose your script using a word processor and submit it for review.
 
-Unit Project: Compose Your Audio Essay
+## Unit Project: Compose Your Audio Essay
 
 You will need to spend some time getting to know the Audition audio editor. (You can use an altenate audio editor if you prefer.) Take time to read the overviews, help pages, and tutorials that can get you started with the program. Although your project and your audio editor will influence your composing process, you can follow some general steps.
 

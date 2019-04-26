@@ -5,6 +5,44 @@
 ![Book Cover 3](images/book3.jpg)
 ![Book Cover 4](images/book4.jpg)
 
+## Book Cover Rubric (Think about Summary, Quotes and Design)
+
+1.Content
+2.Structure
+3. Style 
+
+What does an A look like?
+Summary is engaging, but not too revealing--includes a “cliffhanger.” The summary makes you want to read the book. The summary is informative without being heavy handed; it is meant to increase the potential reader’s interest, not just tell them the plot in its entirety.
+If images are used, the pictures are of good quality. Images are both interesting and indicative of the nature of the book. Picture on front cover is not too busy whether that be with the wording or colors.
+All text is clearly visible and doesn’t disrupt the image on the cover.
+Cover design overall makes you interested and wanting to read the book.  
+The cover is professional looking. 
+Quotes are concise, interesting and add to the cover. 
+The front and back of the cover “flow” and work together
+Attention drawn to title
+Book review excerpts sound appealing 
+
+What does a B look like?
+Bad picture quality
+Summary on back cover has some grammar/spelling errors
+Cover is too “busy”
+Cover design is interesting but not as compelling as it could be
+Summary reveals too much, “book report” like.
+The quotes raise an interest in the book without being compelling
+Distractions on the cover.. If quote/tagline isn’t relevant, if picture is too busy, etc.
+Summary tells the entire plot of a novel.
+
+What does a C or revise look like?
+Not on time
+Summary is not accurate
+Picture doesn’t relate to the summary/plot of the book
+Front and back covers do not work together
+Quotes are not attributed to anyone or any publications
+Resources are from goodreads, amazon, etc (not vetted sources) 
+
+
+
+
 # Commentaries
 
 Book Cover 1 (Fight Club):

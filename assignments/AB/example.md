@@ -1,4 +1,4 @@
-Example
+Below you will find two examples of memes that were created in an undergraduate writing class at UNC-CH.
 
 In this meme, image compositing is used to combine two visual elements. Selection tools have been used to isolate the image of a cowboy hat, and the lay the element over a backgroun image that includes an Audi vehicle. The compositing visually puts the hat on the car. The textual element then uses wordplay to amplify the visual combination.
 ![hAudi](images/hAudimeme.jpg)

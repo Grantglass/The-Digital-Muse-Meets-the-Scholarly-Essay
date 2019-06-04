@@ -4,6 +4,5 @@ In this meme, image compositing is used to combine two visual elements. Selectio
 ![hAudi](images/hAudimeme.jpg)
 
 
-When Your Homework is 2 Questions 
-In this meme, arrangement is used to create a two-part structure. The image in the top portion of the image creates an optimistic message through facial expression which is reinforced with the text. This sentiment is then fliped in the lower portion where the visual suggests suggests disappointment and the text explains the source. 
+In this meme, arrangement is used to create a two-part structure. The image in the top portion of the image creates an optimistic message through facial expression which is reinforced with the text. This sentiment is then fliped in the lower portion where the visual suggests disappointment and the text explains the source. 
 ![twopartmeme](images/twopartmeme.png)

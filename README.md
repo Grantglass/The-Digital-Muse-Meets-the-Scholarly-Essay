@@ -17,45 +17,45 @@ Each project will contain:
 
 ## Projects
 
-### 1. Book Review (Trailer in Rush)
+### 1. Book Review (Video Trailer)
 
-- [Prompt](assignments/BR/prompt.md)
+- [Prompts](assignments/BR/prompt.md)
 - [Resources](assignments/BR/resources.md)
-- [Student Example and Commentary](assignments/BR/example.md)
+- [Examples and Commentary](assignments/BR/example.md)
 
 
 
-### 2. Poetry Analysis (Remix in Rush)
+### 2. Poetry Analysis (Remix Video)
 
-- [Prompt](assignments/PA/prompt.md)
+- [Prompts](assignments/PA/prompt.md)
 - [Resources](assignments/PA/resources.md)
-- [Student Example and Commentary](assignments/PA/example.md)
+- [Examples and Commentary](assignments/PA/example.md)
 
 
 
 
 
-### 3. Sonic Storytelling (Audio Essay in Audition)
+### 3. Sonic Storytelling (Audio Essay)
 
-- [Prompt](assignments/CVR/prompt.md)
+- [Prompts](assignments/CVR/prompt.md)
 - [Resources](assignments/CVR/resources.md)
-- [Student Example and Commentary](assignments/CVR/example.md)
+- [Examples and Commentary](assignments/CVR/example.md)
 
 
 
-### 4. Moving Visuals (Animated GIF in Photoshop)
+### 4. Moving Visuals (Viral Images)
 
-- [Prompt](assignments/AB/prompt.md)
+- [Prompts](assignments/AB/prompt.md)
 - [Resources](assignments/AB/resources.md)
-- [Student Example and Commentary](assignments/AB/example.md)
+- [Examples and Commentary](assignments/AB/example.md)
 
 
 
-### 5. Literature Review (Book cover in InDesign)
+### 5. Literature Review (Book Cover Design)
 
-- [Prompt](assignments/LR/prompt.md)
+- [Prompts](assignments/LR/prompt.md)
 - [Resources](assignments/LR/resources.md)
-- [Student Example and Commentary](assignments/LR/example.md)
+- [Examples and Commentary](assignments/LR/example.md)
 
 
 

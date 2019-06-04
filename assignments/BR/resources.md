@@ -1,18 +1,20 @@
 Book Trailer Video Resources:
 
-[Adobe Premier Rush](https://www.adobe.com/products/premiere-rush.html)
+[Adobe Premier Rush](https://www.adobe.com/products/premiere-rush.html): https://www.adobe.com/products/premiere-rush.html
 
-[Lynda.com](http://software.sites.unc.edu/lynda/) provides training on all the Adobe Creative Cloud suite. It is free to students and has over 2,000 different courses to choose from.
+[Lynda.com](http://software.sites.unc.edu/lynda/): http://software.sites.unc.edu/lynda/.
 
-[Media Resources Center](https://library.unc.edu/house/mrc/) provides instruction on how to use a host of digital media production equipment and editing software.
+[Media Resources Center](https://library.unc.edu/house/mrc/): https://library.unc.edu/house/mrc/ 
 
-[UNC Library's guide to images](https://guides.lib.unc.edu/ImagesReuse/images) provides you with the resouces to get usable images for your video. 
+[UNC Library's guide to images](https://guides.lib.unc.edu/ImagesReuse/images): https://guides.lib.unc.edu/ImagesReuse/images
 
-[UNC's Scholarly Communications Office](https://library.unc.edu/scholarly-communications/) provides guidance and other assistance on issues including copyright.
+[UNC's Scholarly Communications Office](https://library.unc.edu/scholarly-communications/): https://library.unc.edu/scholarly-communications/ 
 
-The Center for Media & Social Impact at American University’s School of Communication published a [“Code of Best Practices in Fair Use for Media Literacy Education”](http://cmsimpact.org/code/code-best-practices-fair-use-media-literacy-education/) to help students interpret the copyright doctrine of fair use.
+[The Code of Best Practices in Fair Use for Media Literacy Education](http://cmsimpact.org/code/code-best-practices-fair-use-media-literacy-education/): http://cmsimpact.org/code/code-best-practices-fair-use-media-literacy-education/
 
-Stanford University has a great [page with information](https://fairuse.stanford.edu/library-resources/) on fair use and copyright guidelines and policies.
+
+[Stanford University's Fair Use Information](https://fairuse.stanford.edu/library-resources/): https://fairuse.stanford.edu/library-resources/
+
 
 
 

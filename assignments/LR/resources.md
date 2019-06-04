@@ -2,7 +2,7 @@
 
 
 
-The UNC Writing Center, located in SASB North and in Greenlaw Hall #221, offers free tutoring services for students. You may visit the Writing Center to ask for help with a specific paper, whether you are concerned with developing ideas and content, organizing your assignment, or working on style issues. To make an appointment, browse the Writing Center’s online resources, or send a draft online, please go to (http://www.unc.edu/depts/wcweb/). To make the best use of your time there, please bring a copy of both your assignment sheet and your draft with you. The Writing Center will not proofread papers or discuss grades with you.
+[These need to be trimmed down and standardized as a list of a few links] The UNC Writing Center, located in SASB North and in Greenlaw Hall #221, offers free tutoring services for students. You may visit the Writing Center to ask for help with a specific paper, whether you are concerned with developing ideas and content, organizing your assignment, or working on style issues. To make an appointment, browse the Writing Center’s online resources, or send a draft online, please go to (http://www.unc.edu/depts/wcweb/). To make the best use of your time there, please bring a copy of both your assignment sheet and your draft with you. The Writing Center will not proofread papers or discuss grades with you.
 
  
 Design Lab

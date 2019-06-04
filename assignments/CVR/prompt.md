@@ -6,10 +6,10 @@ Once you have arrived at the object or word that will organize your essay, you c
 
 | Genre                  | Purpose                                                                                              | Audience       | Role      | Rhetorical Situation                                                                                                                                                                                                                         |
 |------------------------|------------------------------------------------------------------------------------------------------|----------------|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Storytelling "Podcast" | You have been tasked with generating content for a podcast on the significance of a word or object.  | General Public | Podcaster | You work for a podcast that focuses on telling the stories of  different words and objects. The purpose of this podcast is to get the audience interested in things that might seem boring or banal and to tell the story of that item/word. |
+| Storytelling "Podcast" | You have been tasked with generating content for a podcast on the significance of a word or object.  | General Public | Podcaster | You work for a podcast that focuses on telling the stories of  different words and objects. The purpose of this podcast is to get the audience interested in things that might seem boring or banal and to tell the story of those items/words. |
 
 
-## Feeder 1: Understanding audio storytelling
+## Feeder 1: Understanding Audio Storytelling
 
 To get started, listen to Steph Ceraso's "[A Tale of Two Soundscapes](http://soundboxproject.com/project-soundscapes.html)." As you listen, pay attention to the way the piece blends personal experience with discussion of concepts. Think as well about aspects of storytelling in the piece--shared personal experiences, contrasts between country and city, changes in perspective or growth of a character, etc. Also think about the uses of sound: how does music influence the piece? What kinds of sound effects are used, and how do they affect your experience? Think as well about compositional aspects of sound--volume levels, transitions, repetitions, etc. 
 
@@ -17,7 +17,7 @@ Next, explore additional audio essays that include aspects of storytelling. List
 
 When finished, submit a two paragraph reflection. In your reflection identify the audio essay that your have selected and provide analysis of its story telling techniques. Consider as well the uses of sound in the piece. Finally, share thoughts on ideas for your own project that you have gleaned from listening to the examples of others.
 
-## Feeder 2: Composing a script:
+## Feeder 2: Composing a Script
 
 Use a word processor or text editor to compose a script for your audio essay. The script should be a mix of storyboard-like instructions and the actual text of the narration you want to include in the essay. If you plan to use audio excerpts from others--i.e., interviews or broadcast segments with information--transcribe any spoken words that are included in those excerpts and include them in the script.
 
@@ -43,7 +43,7 @@ After thinking through the ways that the audio medium can influence your narrati
 
 ## Unit Project: Compose Your Audio Essay
 
-You will need to spend some time getting to know the Audition audio editor. (You can use an altenate audio editor if you prefer.) Take time to read the overviews, help pages, and tutorials that can get you started with the program. Although your project and your audio editor will influence your composing process, you can follow some general steps.
+You will need to spend some time getting to know your audio editor. Take time to read the overviews, help pages, and tutorials that can get you started with the program. Although your project and your audio editor will influence your composing process, you can follow some general steps.
 
 Become adept at recording your own voice to narrate the audio essay. Find a quiet environment where you can work. Experiment with your available microphones. (Built in laptop microphones often work fine; affordable USB microphones work well; more advanced microphones might be worth a look.) Try some practice recordings, working with your equipment and software until you get audio that is loud enough to be easily heard and that does not contain undue levels of background sound. The MRC has podcasting recording equipment you can use.
 
@@ -53,10 +53,10 @@ Learn the moves needed to import audio files into your editor. You may also need
 
 Ensure that you have an outline or plan for developing the essay. Import a clip and begin editing it and adding your narration. Check that you are writing into and out of the clips in ways that clarify and extend your topic.
 
-Allow yourself room to revise aspects of your script as the evolving project dictate. For instance, you may have planned to include a lengthy excerpt from an interview only to discover that a kernal of audio in the middle of the clip is all you need. Or you may find that a phrase that looked good "on paper" in your script trips you up when spoken into the microphone. Your script will guide you, but the project can also emerge through the composing process.
+Allow yourself room to revise aspects of your script as the evolving project dictates. For instance, you may have planned to include a lengthy excerpt from an interview only to discover that a kernal of audio in the middle of the clip is all you need. Or you may find that a phrase that looked good "on paper" in your script trips you up when spoken into the microphone. Your script will guide you, but the project can also emerge through the composing process.
 
 Continue importing materials and adding narration. Add background sounds for ambiance as needed. Adjust and polish the composition.
 
-When finished, export a draft of your file and submit it in mp3 format
+When finished, export a draft of your file and submit it for review in mp3 format.
 
 This should be a project that raises some new challenges for you. Some will be technical; be sure to save your files often and give yourself time to learn how to compose with audio. Most of the challenges should be conceptual; you'll need to learn to imagine how you can organize a project based in sound, create transitions, convey information succinctly, create a mood through audio, etc. There will also be content challenges. You will be working to deliver an essay, so research, concise writing, editing, and all the typical communication moves will be needed. Hopefuly the level of challenges will still allow the project to be creative and fun.

@@ -1,4 +1,4 @@
-Poetry Analysis
+Poetry Analysis Video Resources
 
 UNC-Chapel Hill's Poetry Explication Guidelines: https://writingcenter.unc.edu/tips-and-tools/poetry-explications/
 
@@ -8,15 +8,11 @@ Poets.org Collection of Poems and Resources: https://www.poets.org
 
 Poetry Foundation Collection of Poems and Resources: https://www.poetryfoundation.org
 
-Video Poetry
-
 Moving Poems: http://movingpoems.com
 
 Ilit: An E-Poetry Exhibit: https://jitp.commons.gc.cuny.edu/i-lit/
 
 I Love E-Poetry: http://iloveepoetry.com
-
-Video Editing
 
 The MRC's Video Editing Guides: https://guides.lib.unc.edu/mrc/videoediting
 

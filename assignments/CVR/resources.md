@@ -1,6 +1,4 @@
-Audio Essay
-
-Storytelling and Audio Literacy
+Audio Storytelling Resources
 
 NPR's Audio Training Resources: https://training.npr.org/category/audio/
 
@@ -9,8 +7,6 @@ Transom.org's Audio Techniques Resources: https://transom.org/topics/techniques/
 Stanford University's StoryLab: https://storytelling.stanford.edu/storylab/
 
 The MRC's Digital Literacy for Sound Information: https://guides.lib.unc.edu/mrc/digitalliteracyconcepts/sound
-
-Audio Composing
 
 The MRC's Audio Composing Video Tutorials: https://guides.lib.unc.edu/mrc/audiovideoediting/audioediting
 

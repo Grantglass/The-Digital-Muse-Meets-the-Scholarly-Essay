@@ -1,0 +1,2 @@
+To evaluate the learning associated with these kinds of digital projects, we have developed an approach meant to further the digital literacy of students. This approach calls for reflecting on media affordances and learning outcomes through media. After completing audio or video composing projects, students were asked to use screen recording software to capture key elements of their work. They were also tasked with evaluating aspects of media and learning experiences. The videos below contain these assessments.
+

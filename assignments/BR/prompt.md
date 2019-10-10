@@ -5,7 +5,9 @@
 
 -Charles Dickens, *Oliver Twist*
 
-[This seems to be a different intro paragraph from a different assignment] For this unit, you will take on the role of a Public History student who has been tasked with surveying, researching, and analyzing one specific building at UNC Chapel Hill. The end product is a compelling video essay that will inform and enlighten the greater university community about the buildings they spend so much time in. Much like the outstanding films of Ken Burns, your 3-5-minute video will incorporate images (photographs, maps) and narration (words), but will not need to include shot video (unless you would like to).
+For this unit, you will take on the role of an Editorial Intern at a publishing house that has been tasked with creating an engaging book review of a title that has fallen out of favor. Since the publisher is trying to reach new audiences, they want you to create a one-minute video that will both inform and generate interest in your assigned title.
+
+
 
 | Genre             | Purpose                                                              | Audience         | Role             | Rhetorical Situation                                                                                                                                                                                                                                                              |
 |-------------------|----------------------------------------------------------------------|------------------|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
